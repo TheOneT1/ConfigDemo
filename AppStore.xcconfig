@@ -1,0 +1,8 @@
+//
+//  AppStore.xcconfig
+//  ConfigDemo
+//
+//  Created by ffss on 16/9/29.
+//  Copyright © 2016年 ffss. All rights reserved.
+//
+XCTest = @"aaa"
